@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "queue": "cpp",
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "cpp",
+        "set": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+}
