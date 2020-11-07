@@ -2,9 +2,9 @@
 
 int main() {
     int n, m;   // 세로n, 가로m
-    int count = 0;
+    int row_count = 0, col_count = 0;
+    int row[101]={0,}, col[101]={0,};
     char arr[101][101] = {'\0',};
-    int value[51][51] = {0,};
     scanf("%d %d", &n, &m);
     for(int i=0; i<n; i++) {
         scanf("%s", arr[i]);
@@ -12,35 +12,22 @@ int main() {
 
     for(int i=0; i<n; i++) {
         for(int j=0; j<m; j++) {
-            if(arr[i][j]=='.') {
-                for(int k=0; k<n; k++) value[k][j] ++;
-                for(int k=0; k<m; k++) value[i][k] ++;
-                value[i][j]--;
+            if(arr[i][j]=='X') {
+                row[i]++;
+                col[j]++;
             }
         }
     }
 
     for(int i=0; i<n; i++) {
-        for(int j=0; j<m; j++) {
-            if(value[i][j]>=2) {
-                count++;
-                for(int k=0; k<n; k++) value[k][j] = 0;
-                for(int k=0; k<m; k++) value[i][k] = 0;
-            }
-        }
+        if(!row[i]) row_count++;
+    }
+    for(int i=0; i<m; i++) {
+        if(!col[i]) col_count++;
     }
 
-    for(int i=0; i<n; i++) {
-        for(int j=0; j<m; j++) {
-            if(value[i][j]==1) {
-                count++;
-                for(int k=0; k<n; k++) value[k][j] = 0;
-                for(int k=0; k<m; k++) value[i][k] = 0;
-            }
-        }
-    }
-
-    printf("%d", count);
+    if(row_count > col_count) printf("%d", row_count);
+    else printf("%d", col_count);
 
     return 0;
 }
