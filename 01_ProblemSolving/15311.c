@@ -1,10 +1,12 @@
 #include <stdio.h>
 
 int main() {
-    int result = 0;
-    for(int i=1; i<=2000; i++) {
-        result += i;
+    printf("2000\n");
+    for(int i=0; i<1000; i++) {
+        printf("1 ");
     }
-    printf("%d", result);
+    for(int i=0; i<1000; i++) {
+        printf("999 ");
+    }
     return 0;
 }
