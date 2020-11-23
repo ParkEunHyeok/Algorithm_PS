@@ -12,25 +12,14 @@ int main() {
     }
     scanf("%d",&n);
 
-    int max = 1004, min = 0;
-    for(int i=0; i<1000; i++) {
-        if(arr[i]==0) continue;
-        else if(arr[i]==n) {
-            printf("0");
-            return 0;
-        }
-        if(arr[i] < min) min = arr[i];
-        if(arr[i] > max) max = arr[i];
-    }
-
-    // 예외처리, N이 UnluckyNum의 최댓값보다 크거나 최솟값보다 작으면 0 출력
-    if(n >= max || n <= min) {
+    // N이 LuckyNumber일 경우, 0출력
+    if(arr[n]!=0) {
         printf("0");
         return 0;
     }
 
     // N이 들어간 Unlucky 구간의 최대 최소 구하기
-    int min_num=1004, max_num = 0;
+    int min_num, max_num;
     for(int i=0; i<1000; i++) {
         if(arr[i]==0) continue;
         else {
@@ -44,27 +33,22 @@ int main() {
         }
     }
 
-    // Unlucky 구간의 개수 구하기
     int count = 0;
-    
-    if(min_num + 1 == n && n + 1 == max_num) {
-        count = 0;
+
+    // N+1==max_num이라면,
+    if(arr[n+1]==max_num) {
+        count = max_num - min_num - 1;
+        printf("%d", count);
+        return 0;
     }
-    else if(max_num - n == 1) {
-        count = n - (min_num + 1);
-    }
-    else
-    {
-        for(int i=n; i>min_num; i--) {
-            for(int i=n; i<max_num-1; i++) {
-                count++;
-            }
+
+    // Unlucky 구간의 개수 구하기
+    for(int i=n; i>min_num; i--) {
+        for(int j=i+1; j<max_num; j++) {
+            count ++;
         }
     }
-    
-    for(int i=(min_num+1); i<=n; i++) {
-            count += (max_num-1)-i;
-    }
+
     printf("%d", count);
     return 0;
 }
