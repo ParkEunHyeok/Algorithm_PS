@@ -2,13 +2,31 @@
 
 int main() {
     int n;
-    int my_stick = 64;
     scanf("%d", &n);
 
-    int count = 1;
+    int stick = 64, count=1;
     while(1) {
-        if(n < my_stick) {
-            my_stick /= 2;
+        if(stick < n) break;
+        else if(stick == n) {
+            printf("1");
+            return 0;
+        }
+        stick /= 2;
+    }
+    int plus = stick;
+    while(1) {
+        plus /= 2;
+        if((stick+plus)>n) {
+            continue;
+        } else {
+            stick += plus;
+            count++;
+        }
+
+        if(stick == n) {
+            break;
         }
     }
+    printf("%d", count);
+    return 0;
 }
