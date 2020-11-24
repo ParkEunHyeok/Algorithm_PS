@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    //값 입력받기
+    // 값 입력받기
     int arr[1001] = {0,};
-    int l,n;
+    int l, n, count=0;
     scanf("%d\n", &l);
     for(int i=0; i<l; i++) {
         int number;
@@ -12,15 +12,15 @@ int main() {
     }
     scanf("%d",&n);
 
-    // N이 LuckyNumber일 경우, 0출력
+    // 예외 : n이 LuckyNumber일 경우 -> 0
     if(arr[n]!=0) {
         printf("0");
         return 0;
     }
 
     // N이 들어간 Unlucky 구간의 최대 최소 구하기
-    int min_num, max_num;
-    for(int i=0; i<1000; i++) {
+    int min_num=0, max_num;
+    for(int i=0; i<=1000; i++) {
         if(arr[i]==0) continue;
         else {
             if(arr[i] < n) {
@@ -33,22 +33,17 @@ int main() {
         }
     }
 
-    int count = 0;
-
-    // N+1==max_num이라면,
-    if(arr[n+1]==max_num) {
-        count = max_num - min_num - 1;
-        printf("%d", count);
-        return 0;
-    }
+    // 공식 : (n-min_num-1)*(max_num-n)+(max_num-n-1)
 
     // Unlucky 구간의 개수 구하기
-    for(int i=n; i>min_num; i--) {
-        for(int j=i+1; j<max_num; j++) {
-            count ++;
+    for(int i=min_num+1; i<=n; i++) {
+        for(int j=n; j<max_num; j++) {
+            count++;
         }
     }
+    count--;
 
     printf("%d", count);
+
     return 0;
 }
