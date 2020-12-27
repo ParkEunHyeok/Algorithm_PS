@@ -20,12 +20,16 @@ void backtracking(int cnt) {
     }
 
     for(int i=0; i<n; i++) {
+        // 방문한 적 있으면 건너뜀.
         if(visit[i]) continue;
 
+        // 방문함 표시
         visit[i] = 1;
+        // arr 배열에 집어넣기
         arr[cnt] = number[i];
+        // 카운트 1늘리고 재귀 동작
         backtracking(cnt + 1);
-
+        // 뒤로 back
         visit[i] = 0;
     }
 }
