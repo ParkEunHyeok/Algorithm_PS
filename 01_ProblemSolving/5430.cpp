@@ -14,10 +14,6 @@ int main() {
         deque<int> dq;
         string inputs;
         cin >> inputs;
-        if(inputs=="[]") {
-            cout << "error\n";
-            continue;
-        }
         for(int i=0; i<inputs.length(); i++) {
             if(inputs[i]=='[' || inputs[i]==']' || inputs[i]==',') {
                 continue;
@@ -35,44 +31,48 @@ int main() {
             }
         }
 
-        bool p = true;
-        bool flag = true;
+        bool p = true;  // true:순방향, false:역방향
+        bool flag = true;   // true:정상, false:error 출력
+        int front_index = 0;    // 정방향 인덱스
+        int back_index = n-1; // 역방향 인덱스
+        int dqsize = n;
         for(int i=0; i<str.length(); i++) {
             if(str[i]=='R') {   // 뒤집기
                 p = !p;
             }
-            else {  //삭제
-                if(dq.empty()) {
+            else {  // 맨 앞 글자 pop
+                if(dqsize==0) {
                     flag = false;
-                    cout << "error" << "\n";
+                    break;
                 }
-                
-                if(p) {   // 정방향
-                    dq.pop_front();
+                if(p) { // 정방향
+                    dqsize--;
+                    front_index++;
                 }
-                else  { // 역방향
-                    dq.pop_back();
+                else {  // 역방향
+                    dqsize--;
+                    back_index--;
                 }
             }
         }
 
         if(flag) {
             cout << "[";
-            if(p) { // 정방향
-                for(int i=0; i<(int)dq.size()-1; i++) {
-                    cout << dq[i] << ",";
+            if(p) {
+                for(int i=front_index; i<=back_index; i++) {
+                    cout << dq[i];
+                    if(i!=back_index) cout << ",";
                 }
-                cout << dq[(int)dq.size()-1] << "]" << "\n";
             }
-            else {  // 역방향
-                for(int i=(int)dq.size()-1; i>0; i--) {
-                    cout << dq[i] << ",";
+            else {
+                for(int i=back_index; i>=front_index; i--) {
+                    cout << dq[i];
+                    if(i!=front_index) cout << ",";
                 }
-                cout << dq[0] << "]" << "\n";
             }
+            cout << "]\n";
         }
-        else continue;
+        else cout << "error\n";
     }
-
     return 0;
 }
