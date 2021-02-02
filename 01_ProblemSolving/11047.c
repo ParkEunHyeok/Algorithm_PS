@@ -17,7 +17,7 @@ int main() {
         coin_count += coin;
         k -= coin * arr[i];
     }
-
+    
     printf("%d", coin_count);
     return 0;
 }
