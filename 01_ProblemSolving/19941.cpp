@@ -29,7 +29,7 @@ int main() {
 
             if(flag) continue;
 
-            for(int j=1; j<=k; j++) {
+            for(int j=1; j<=k; j++) {   
                 if((i+j) > (n-1)) continue;
                 if(str[i+j]=='H') {
                     can_eat++;
