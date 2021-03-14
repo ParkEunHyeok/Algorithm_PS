@@ -18,7 +18,6 @@ int main() {
         int money = arr[i]-(count-1);
         if(money > 0) sum_money += money;
     }
-
     cout << sum_money;
     return 0;
 }

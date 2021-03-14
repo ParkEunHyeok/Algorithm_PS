@@ -25,8 +25,7 @@ int main() {
             q.pop();
 
             if(pq.top()==va) {
-                pq.pop();
-                cnt ++;
+                pq.pop();                cnt ++;
                 if(idx==m) break;
             }
             else q.push(make_pair(idx, va));
