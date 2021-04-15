@@ -13,10 +13,18 @@ int main() {
         gugu[i][9] = hsum;
     }
 
+    for(int j=0; j<9; j++) {
+        int vsum = 0;
+        for(int i=0; i<8; i++) {
+            vsum += gugu[i][j];
+        }
+        gugu[8][j] = vsum;
+    }
+
     //result
-    for(int i=0; i<8; i++) {
+    for(int i=0; i<9; i++) {
         for(int j=0; j<10; j++) {
-            printf("%5d ", gugu[i][j]);
+            printf("%5d", gugu[i][j]);
         }
         printf("\n");
     }
