@@ -13,7 +13,7 @@ int main() {
         v.push_back(make_pair(end, start));
     }
     sort(v.begin(), v.end());
-
+    
     int cnt = 0;
     int last_end = 0;
     for(int i=0; i<n; i++) {
