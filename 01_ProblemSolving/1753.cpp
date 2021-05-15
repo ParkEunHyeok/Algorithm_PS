@@ -28,7 +28,7 @@ int main() {
     dist[start] = 0;
 
     while(!pq.empty()) {
-        int cost = pq.top().first;
+        int cost = -pq.top().first;
         int idx = pq.top().second;
         pq.pop();
 
