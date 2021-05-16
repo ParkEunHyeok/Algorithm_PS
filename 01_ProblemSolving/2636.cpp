@@ -3,7 +3,6 @@
 #include <cstring>
 using namespace std;
 
-
 // cheeze:3, premelt:2, air:1, hole:0
 int y, x;
 int dir[4][2] = {{1,0}, {-1,0}, {0,1}, {0,-1}};
