@@ -2,32 +2,47 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
+#define MAX 1000001
 
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
 
-    int n, k;
+    int n, target;
+    int cnt = 0;
+    int A = MAX, B = MAX, C = MAX;
+    int res = 987654321;
+    cin >> n >> target;
+
     vector<int> force, speed, intellect;
-
-    cin >> n >> k;
+    force.resize(n);
+    speed.resize(n);
+    intellect.resize(n);
     for(int i=0; i<n; i++) {
-        int tmp1, tmp2, tmp3;
-        cin >> tmp1 >> tmp2 >> tmp3;
-        force.push_back(tmp1);
-        speed.push_back(tmp2);
-        intellect.push_back(tmp3);
+        cin >> force[i] >> speed[i] >> intellect[i];
     }
-    vector<int> v1(force);
-    vector<int> v2(speed);
-    vector<int> v3(intellect);
 
-    sort(force.begin(), force.end());
-    sort(speed.begin(), speed.end());
-    sort(intellect.begin(), intellect.end());
-    force.erase(unique(force.begin(), force.end()), force.end());
-    speed.erase(unique(speed.begin(), speed.end()), speed.end());
-    intellect.erase(unique(intellect.begin(), intellect.end()), intellect.end());
+    for(int i=0; i<n; i++) {
+        for(int j=0; j<n; j++) {
+            for(int k=0; k<n; k++) {
+                int curf = force[i], curs = speed[j], curi = intellect[k];
+                cnt = 0;
+                
+                for(int l=0; l<n; l++) {
+                    if(curf>=force[l] && curs>=speed[l] && curi>=intellect[l]) {
+                        cnt++;
+                    }
+                }
+                if(cnt>=target && res>=cnt && curf+curs+curi<A+B+C) {
+                    A = curf;
+                    B = curs;
+                    C = curi;
+                    res = cnt;
+                }
+            }
+        }
+    }
 
-
+    cout << A+B+C;
+    return 0;
 }
