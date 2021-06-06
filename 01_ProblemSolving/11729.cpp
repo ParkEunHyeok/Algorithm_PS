@@ -1,29 +1,21 @@
 #include <iostream>
-#include <queue>
+#include <stack>
 using namespace std;
 
+int n, cnt;
+
+stack<int> one,two,three;
+
+void hanoi(int n) {
+    
+}
+
 int main() {
-    int n;
-    priority_queue<int, vector<int> > pq;
-    scanf("%d", &n);
+    cin >> n;
 
-    for(int i=0; i<n; i++) {
-        int number;
-        scanf("%d", &number);
-
-        if(number==0) { // pop
-            if(!pq.empty()) {
-                printf("%d\n", pq.top());
-                pq.pop();
-            }
-            else {
-                printf("0\n");
-            }
-        }
-        else {  // push
-            pq.push(number);
-        }
+    for(int i=n; i>0; i++) {
+        one.push(i);
     }
 
-    return 0;
+    hanoi(n);
 }
