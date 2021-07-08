@@ -7,7 +7,8 @@ int map[105][105];
 bool visited[105][105];
 int dir[4][2] = {{0,1},{0,-1},{1,0},{-1,0}};
 
-void dfs(int y, int x, int size) {
+int dfs(int y, int x) {
+    int size = 1;
     visited[y][x] = true;
     
     for(int i=0; i<4; i++) {
@@ -16,12 +17,11 @@ void dfs(int y, int x, int size) {
 
         if(next_x<1 || next_x>m || next_y<1 || next_y>n) continue;
         if(!visited[next_y][next_x] && map[next_y][next_x]) {
-            size++;
-            dfs(next_y, next_x, size);
+            size += dfs(next_y, next_x);
         }
     }
 
-    result = max(result, size);
+    return size;
 }
 
 int main() {
@@ -38,7 +38,7 @@ int main() {
     for(int i=1; i<=n; i++) {
         for(int j=1; j<=m; j++) {
             if(!visited[i][j] && map[i][j]) {
-                dfs(i,j,1);
+                result = max(result, dfs(i,j));
             }
         }
     }
