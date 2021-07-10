@@ -67,8 +67,6 @@ void pop() {
 }
 
 int main() {
-    int cnt = n;
-
     // 숫자 입력받고 힙에 삽입
     while(1) {
         int tmp;
@@ -77,6 +75,7 @@ int main() {
         push(tmp, ++n);
     }
 
+    int cnt = n;
     // 힙을 순서대로 출력
     for(int i=1; i<=cnt; i++) {
         printf("%d ", heap[i]);
