@@ -34,6 +34,8 @@ int main() {
         int idx = pq.top().second;
         pq.pop();
 
+        if(cost > dist[idx]) continue;
+
         for(int i=0; i<arr[idx].size(); i++) {
             int nextIdx = arr[idx][i].first;
             int nextCost = arr[idx][i].second;
