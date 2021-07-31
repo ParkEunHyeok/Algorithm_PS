@@ -1,9 +1,9 @@
 #include <iostream>
-#include <vector>
 using namespace std;
+#define MAX 100001
 
-vector<int> v;
-vector<pair<int, int>> tree;    // 최솟값, 최댓값
+int v[MAX];
+pair<int, int> tree[4*MAX];
 
 pair<int, int> init(int start, int end, int node) {
     if(start==end) {
@@ -21,7 +21,7 @@ pair<int, int> init(int start, int end, int node) {
 }
 
 pair<int, int> query(int start, int end, int node, int left, int right) {
-    if(start > right || end < left) return {987654321, 0};
+    if(start > right || end < left) return {1987654321, 0};
     if(left <= start && end <= right) return tree[node];
 
     int mid = (start + end) / 2;
@@ -41,20 +41,17 @@ int main() {
     int n, m;
     cin >> n >> m;
 
-    v.resize(n);
-    tree.resize(4*n+1);
-
-    for(int i=0; i<n; i++) {
+    for(int i=1; i<=n; i++) {
         cin >> v[i];
     }
 
-    init(0, n-1, 1);
+    init(1, n, 1);
     
     for(int i=0; i<m; i++) {
         int a, b;
         cin >> a >> b;
-        pair<int, int> res = query(0, n-1, 1, a-1, b-1);
-        cout << res.first << ' ' << res.second << '\n';
+        pair<int, int> res = query(1, n, 1, a, b);
+        cout << res.first << " " << res.second << "\n";
     }
 
     return 0;
