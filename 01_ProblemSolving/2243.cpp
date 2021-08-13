@@ -14,7 +14,7 @@ void update(int start, int end, int node, int idx, int diff) {
     int mid = (start+end)/2;
     update(start, mid, node*2, idx, diff);
     update(mid+1, end, node*2+1, idx, diff);
-}
+}   
 
 ll query(int start, int end, int node, int k) {
     if(start==end && res==0) {
