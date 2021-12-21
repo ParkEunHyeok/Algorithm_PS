@@ -20,19 +20,23 @@ int main() {
     sort(v.begin(), v.end());
 
     ll s = 2000000001;
-    bool flag = false;
+    int l = 0, r = n-1;
     pair<int, int> result;
 
-    for(int i=0; i<n; i++) {
-        if(v[i]>0) break;
-        
+    while(l<r) {
+        int num = v[l] + v[r];
+
+        if(abs(s) > abs(num)) {
+            s = num;
+            result.first = v[l];
+            result.second = v[r];
+        }
+
+        if(num < 0) l++;
+        else r--;
     }
 
-    if(result.first < result.second) {
-        cout << result.first << " " << result.second;
-    } else {
-        cout << result.second << " " << result.first;
-    }
+    cout << result.first << " " << result.second;
 
     return 0;
 }
