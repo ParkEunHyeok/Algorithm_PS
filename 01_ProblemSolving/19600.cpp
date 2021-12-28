@@ -3,8 +3,8 @@
 using namespace std;
 #define ll long long
 
-ll b[5001][5001];
-ll t[5001][5001];
+int b[5002][5002];
+int t[5002][5002];
 
 void binary_search(int i, int left, int right, int depth) {
     if(left>right) return;
@@ -18,21 +18,23 @@ void binary_search(int i, int left, int right, int depth) {
 
 void ternary_search(int i, int left, int right, int depth) {
     if(left>right) return;
+    if(left==right) {
+        t[i][left] = depth;
+        return;
+    }
     
     int left_third = left + (right - left) / 3;
     int right_third = right - (right - left) / 3;
     
-    t[i][left_third] = depth;
-    t[i][right_third] = depth+1;
+    t[i][left_third] = depth++;
+    t[i][right_third] = depth++;
 
-    ternary_search(i, left, left_third-1, depth+1);
-    ternary_search(i, left_third+1, right_third-1, depth+1);
-    ternary_search(i, right_third+1, right, depth+1);
+    ternary_search(i, left, left_third-1, depth);
+    ternary_search(i, left_third+1, right_third-1, depth);
+    ternary_search(i, right_third+1, right, depth);
 }
 
 int main() {
-    int q;
-
     for(int i=1; i<=5000; i++) {
         binary_search(i, 0, i-1, 0);
         ternary_search(i, 0, i-1, 0);
@@ -42,6 +44,8 @@ int main() {
             t[i][j] += t[i][j-1];
         }
     }
+    
+    int q;
 
     ios::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
@@ -49,16 +53,10 @@ int main() {
 
     while(q--) {
         int n, s, e;
-        int sumT, sumB;
         cin >> n >> s >> e;
 
-        if(s==0) sumT = t[n][e];
-        else sumT = t[n][e] - t[n][s-1];
-
-        if(s==0) sumB = b[n][e];
-        else sumB = b[n][e] - b[n][s-1];
-
-        cout << sumT - sumB << "\n";
+        if(s==0) cout << t[n][e] - b[n][e] << "\n";
+        else cout << (t[n][e]-t[n][s-1]) - (b[n][e]-b[n][s-1]) << "\n";
     }
 
     return 0;
