@@ -17,6 +17,6 @@ int main() {
     }
     sort(v.begin(), v.end());
 
-    cout << v[(n/2)-1];
+    cout << v[(n-1) / 2];
     return 0;
 }
