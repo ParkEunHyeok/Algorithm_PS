@@ -1,35 +1,28 @@
 #include <iostream>
-#include <stack>
-#include <string>
+#include <deque>
 using namespace std;
 
 int main() {
-    int n, k, cnt=0;
-    string str, ans;
-    stack<int> s;
+    int n, k, K;
+    string str;
+    deque<int> dq;
+
+    ios::sync_with_stdio(0);
+    cin.tie(0); cout.tie(0);
+
     cin >> n >> k;
     cin >> str;
+    K = k;
 
-    int cur_num = 10;
-    int num_idx = 0;
-    int prev = 0;
-
-    while(cnt!=k) {
-        for(int i=prev; i<=n-1-cnt; i++) {
-            if(cur_num > str[i]) {
-                cur_num = str[i];
-                num_idx = i;
-            }
+    for(int i=0; i<n; i++) {
+        while(!dq.empty() && k>0 && dq.back()<(str[i]-'0')) {
+            dq.pop_back();
+            k--;
         }
 
-        cnt++;
-        ans.push_back(cur_num);
-        prev = num_idx;
+        dq.push_back(str[i]-'0');
     }
 
-    for(int i=0; i<ans.size(); i++) {
-        cout << ans[i];
-    }
-
+    for(int i=0; i<n-K; i++) cout << dq[i];
     return 0;
 }
