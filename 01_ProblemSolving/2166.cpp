@@ -10,26 +10,25 @@ int main() {
 
     cin >> n;
     v.resize(n);
-    for(int i=n-1; i>=0; i--) {
+    for(int i=0; i<n; i++) {
         int x, y;
         cin >> x >> y;
         v[i] = {x,y};
     }
 
-    ll res = 0;
-    for(int i=0; i<n; i++) {
-        ll a = v[i].first;
-        ll b, c;
-        
-        if(i+1>=n) b = v[i+1-n].second;
-        else b = v[i+1].second;
+    double ans = 0;
 
-        if(i+2>=n) c = v[i+2-n].second;
-        else c = v[i+2].second;
+    for(int i=1; i<n-1; i++) {
+        double x1 = v[0].first;
+        double x2 = v[i].first;
+        double x3 = v[i+1].first;
+        double y1 = v[0].second;
+        double y2 = v[i].second;
+        double y3 = v[i+1].second;
 
-        res += a*(b-c);
+        ans += ((x1*y2+x2*y3+x3*y1)-(x2*y1+x3*y2+x1*y3));
     }
 
-    printf("%.1Lf", (long double)res / 2);
+    printf("%.1lf", abs(ans)/2);
     return 0;
 }
