@@ -35,7 +35,7 @@ int main() {
 
         visited[x] = 1;
         res += w;
-        mx = max(mx, w);    
+        mx = max(mx, w);
 
         for(int i=0; i<a[x].size(); i++) {
             int ny = a[x][i].first;
