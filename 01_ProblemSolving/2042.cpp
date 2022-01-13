@@ -38,7 +38,7 @@ int main() {
     segtree.resize(4*n+1);
 
     for(int i=0; i<n; i++) {
-        int tmp;
+        ll tmp;
         cin >> tmp;
         v.push_back(tmp);
     }
