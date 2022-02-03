@@ -3,249 +3,329 @@
 
 |Tier|No|Title|Solution Link|Problem Link|
 | :--: | :--: | :--: | :--: | :--: |
-| Bronze 5 | 1000 | **A+B** | [/boj/1000.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1000.cpp) | http://boj.kr/1000 |
-| Silver 3 | 1003 | **피보나치 함수** | [/boj/1003.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1003.c) | http://boj.kr/1003 |
-| Silver 5 | 1010 | **다리 놓기** | [/boj/1010.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1010.c) | http://boj.kr/1010 |
-| Silver 2 | 1012 | **유기농 배추** | [/boj/1012.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1012.cpp) | http://boj.kr/1012 |
-| Silver 5 | 1018 | **체스판 다시 칠하기** | [/boj/1018.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1018.cpp) | http://boj.kr/1018 |
-| Silver 4 | 1026 | **보물** | [/boj/1026.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1026.cpp) | http://boj.kr/1026 |
-| Bronze 5 | 1032 | **명령 프롬프트** | [/boj/1032.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1032.cpp) | http://boj.kr/1032 |
-| Silver 5 | 1037 | **약수** | [/boj/1037.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1037.c) | http://boj.kr/1037 |
-| Gold 5 | 1038 | **감소하는 수** | [/boj/1038.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1038.cpp) | http://boj.kr/1038 |
-| Silver 3 | 1051 | **숫자 정사각형** | [/boj/1051.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1051.cpp) | http://boj.kr/1051 |
-| Silver 3 | 1057 | **토너먼트** | [/boj/1057.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1057.c) | http://boj.kr/1057 |
-| Silver 5 | 1059 | **좋은 구간** | [/boj/1059.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1059.c) | http://boj.kr/1059 |
-| Silver 4 | 1065 | **한수** | [/boj/1065.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1065.cpp) | http://boj.kr/1065 |
-| Gold 5 | 1068 | **트리** | [/boj/1068.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1068.cpp) | http://boj.kr/1068 |
-| Bronze 2 | 1075 | **나누기** | [/boj/1075.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1075.c) | http://boj.kr/1075 |
-| Bronze 2 | 1076 | **저항** | [/boj/1076.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1076.cpp) | http://boj.kr/1076 |
-| Silver 2 | 1080 | **행렬** | [/boj/1080.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1080.cpp) | http://boj.kr/1080 |
-| Gold 5 | 1092 | **배** | [/boj/1092.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1092.cpp) | http://boj.kr/1092 |
-| Silver 5 | 1094 | **막대기** | [/boj/1094.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1094.c) | http://boj.kr/1094 |
-| Bronze 2 | 1100 | **하얀 칸** | [/boj/1100.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1100.c) | http://boj.kr/1100 |
-| Bronze 5 | 1110 | **더하기 사이클** | [/boj/1110.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1110.c) | http://boj.kr/1110 |
-| Bronze 5 | 1145 | **적어도 대부분의 배수** | [/boj/1145.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1145.c) | http://boj.kr/1145 |
-| Silver 5 | 1149 | **RGB거리** | [/boj/1149.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1149.c) | http://boj.kr/1149 |
-| Silver 5 | 1158 | **요세푸스 문제** | [/boj/1158.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1158.cpp) | http://boj.kr/1158 |
-| Bronze 2 | 1159 | **농구 경기** | [/boj/1159.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1159.c) | http://boj.kr/1159 |
-| Silver 5 | 1181 | **단어 정렬** | [/boj/1181.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1181.cpp) | http://boj.kr/1181 |
-| Silver 2 | 1182 | **부분수열의 합** | [/boj/1182.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1182.cpp) | http://boj.kr/1182 |
-| Gold 2 | 1202 | **보석 도둑** | [/boj/1202.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1202.cpp) | http://boj.kr/1202 |
-| Bronze 3 | 1212 | **8진수 2진수** | [/boj/1212.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1212.c) | http://boj.kr/1212 |
-| Bronze 5 | 1236 | **성 지키기** | [/boj/1236.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1236.c) | http://boj.kr/1236 |
-| Gold 3 | 1238 | **파티** | [/boj/1238.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1238.cpp) | http://boj.kr/1238 |
-| Silver 5 | 1246 | **온라인 판매** | [/boj/1246.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1246.cpp) | http://boj.kr/1246 |
-| Bronze 2 | 1252 | **이진수 덧셈** | [/boj/1252.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1252.cpp) | http://boj.kr/1252 |
-| Silver 5 | 1254 | **팰린드롬 만들기** | [/boj/1254.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1254.cpp) | http://boj.kr/1254 |
-| Bronze 5 | 1259 | **팰린드롬수** | [/boj/1259.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1259.cpp) | http://boj.kr/1259 |
-| Silver 2 | 1260 | **DFS와 BFS** | [/boj/1260.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1260.cpp) | http://boj.kr/1260 |
-| Bronze 3 | 1267 | **핸드폰 요금** | [/boj/1267.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1267.c) | http://boj.kr/1267 |
-| Bronze 5 | 1268 | **임시 반장 정하기** | [/boj/1268.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1268.c) | http://boj.kr/1268 |
-| Platinum 4 | 1280 | **나무 심기** | [/boj/1280.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1280.cpp) | http://boj.kr/1280 |
-| Silver 5 | 1309 | **동물원** | [/boj/1309.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1309.c) | http://boj.kr/1309 |
-| Silver 5 | 1312 | **소수** | [/boj/1312.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1312.c) | http://boj.kr/1312 |
-| Silver 5 | 1316 | **그룹 단어 체커** | [/boj/1316.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1316.cpp) | http://boj.kr/1316 |
-| Silver 5 | 1325 | **효율적인 해킹** | [/boj/1325.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1325.cpp) | http://boj.kr/1325 |
-| Bronze 4 | 1330 | **두 수 비교하기** | [/boj/1330.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1330.c) | http://boj.kr/1330 |
-| Gold 4 | 1339 | **단어 수학** | [/boj/1339.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1339.cpp) | http://boj.kr/1339 |
-| Silver 5 | 1343 | **폴리오미노** | [/boj/1343.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1343.cpp) | http://boj.kr/1343 |
-| Bronze 5 | 1356 | **유진수** | [/boj/1356.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1356.cpp) | http://boj.kr/1356 |
-| Bronze 5 | 1357 | **뒤집힌 덧셈** | [/boj/1357.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1357.c) | http://boj.kr/1357 |
-| Silver 5 | 1389 | **케빈 베이컨의 6단계 법칙** | [/boj/1389.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1389.c) | http://boj.kr/1389 |
-| Silver 3 | 1406 | **에디터** | [/boj/1406.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1406.cpp) | http://boj.kr/1406 |
-| Silver 5 | 1417 | **국회의원 선거** | [/boj/1417.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1417.cpp) | http://boj.kr/1417 |
-| Silver 5 | 1439 | **뒤집기** | [/boj/1439.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1439.cpp) | http://boj.kr/1439 |
-| Silver 3 | 1449 | **수리공 항승** | [/boj/1449.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1449.cpp) | http://boj.kr/1449 |
-| Silver 2 | 1541 | **잃어버린 괄호** | [/boj/1541.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1541.cpp) | http://boj.kr/1541 |
-| Bronze 5 | 1550 | **16진수** | [/boj/1550.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1550.c) | http://boj.kr/1550 |
-| Silver 2 | 1564 | **팩토리얼5** | [/boj/1564.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1564.c) | http://boj.kr/1564 |
-| Bronze 3 | 1598 | **꼬리를 무는 숫자 나열** | [/boj/1598.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1598.c) | http://boj.kr/1598 |
-| Gold 3 | 1613 | **역사** | [/boj/1613.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1613.cpp) | http://boj.kr/1613 |
-| Silver 5 | 1629 | **곱셈** | [/boj/1629.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1629.cpp) | http://boj.kr/1629 |
-| Silver 3 | 1654 | **랜선 자르기** | [/boj/1654.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1654.cpp) | http://boj.kr/1654 |
-| Silver 5 | 1697 | **숨바꼭질** | [/boj/1697.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1697.cpp) | http://boj.kr/1697 |
-| Silver 3 | 1699 | **제곱수의 합** | [/boj/1699.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1699.cpp) | http://boj.kr/1699 |
-| Gold 4 | 1717 | **집합의 표현** | [/boj/1717.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1717.cpp) | http://boj.kr/1717 |
-| Silver 5 | 1743 | **음식물 피하기** | [/boj/1743.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1743.cpp) | http://boj.kr/1743 |
-| Gold 5 | 1753 | **최단경로** | [/boj/1753.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1753.cpp) | http://boj.kr/1753 |
-| Silver 4 | 1758 | **알바생 강호** | [/boj/1758.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1758.cpp) | http://boj.kr/1758 |
-| Gold 5 | 1759 | **암호 만들기** | [/boj/1759.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1759.cpp) | http://boj.kr/1759 |
-| Silver 4 | 1783 | **병든 나이트** | [/boj/1783.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1783.c) | http://boj.kr/1783 |
-| Silver 5 | 1789 | **수들의 합** | [/boj/1789.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1789.cpp) | http://boj.kr/1789 |
-| Gold 4 | 1806 | **부분합** | [/boj/1806.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1806.cpp) | http://boj.kr/1806 |
-| Bronze 3 | 1837 | **암호제작** | [/boj/1837.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1837.c) | http://boj.kr/1837 |
-| Platinum 5 | 1849 | **순열** | [/boj/1849.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1849.cpp) | http://boj.kr/1849 |
-| Silver 3 | 1904 | **01타일** | [/boj/1904.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1904.c) | http://boj.kr/1904 |
-| Silver 2 | 1912 | **연속합** | [/boj/1912.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1912.c) | http://boj.kr/1912 |
-| Gold 5 | 1916 | **최소비용 구하기** | [/boj/1916.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1916.cpp) | http://boj.kr/1916 |
-| Silver 4 | 1920 | **수 찾기** | [/boj/1920.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1920.cpp) | http://boj.kr/1920 |
-| Silver 5 | 1927 | **최소 힙** | [/boj/1927.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1927.cpp) | http://boj.kr/1927 |
-| Silver 2 | 1929 | **소수 구하기** | [/boj/1929.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1929.c) | http://boj.kr/1929 |
-| Silver 2 | 1931 | **회의실 배정** | [/boj/1931.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1931.cpp) | http://boj.kr/1931 |
-| Silver 5 | 1932 | **정수 삼각형** | [/boj/1932.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1932.c) | http://boj.kr/1932 |
-| Silver 5 | 1946 | **신입 사원** | [/boj/1946.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1946.cpp) | http://boj.kr/1946 |
-| Bronze 2 | 1952 | **달팽이2** | [/boj/1952.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1952.c) | http://boj.kr/1952 |
-| Gold 4 | 1956 | **운동** | [/boj/1956.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1956.c) | http://boj.kr/1956 |
-| Silver 3 | 1966 | **프린터 큐** | [/boj/1966.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1966.cpp) | http://boj.kr/1966 |
-| Gold 4 | 1976 | **여행 가자** | [/boj/1976.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1976.cpp) | http://boj.kr/1976 |
-| Silver 4 | 1978 | **소수 찾기** | [/boj/1978.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1978.c) | http://boj.kr/1978 |
-| Gold 4 | 1987 | **알파벳** | [/boj/1987.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1987.cpp) | http://boj.kr/1987 |
-| Silver 5 | 1991 | **트리 순회** | [/boj/1991.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/1991.cpp) | http://boj.kr/1991 |
-| Gold 5 | 2042 | **구간 합 구하기** | [/boj/2042.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2042.cpp) | http://boj.kr/2042 |
-| Gold 5 | 2110 | **공유기 설치** | [/boj/2110.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2110.cpp) | http://boj.kr/2110 |
-| Silver 5 | 2156 | **포도주 시식** | [/boj/2156.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2156.c) | http://boj.kr/2156 |
-| Silver 5 | 2178 | **미로 탐색** | [/boj/2178.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2178.cpp) | http://boj.kr/2178 |
-| Silver 3 | 2193 | **이친수** | [/boj/2193.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2193.cpp) | http://boj.kr/2193 |
-| Gold 4 | 2206 | **벽 부수고 이동하기** | [/boj/2206.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2206.cpp) | http://boj.kr/2206 |
-| Silver 4 | 2217 | **로프** | [/boj/2217.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2217.cpp) | http://boj.kr/2217 |
-| Gold 4 | 2239 | **스도쿠** | [/boj/2239.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2239.cpp) | http://boj.kr/2239 |
-| Platinum 5 | 2243 | **사탕상자** | [/boj/2243.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2243.cpp) | http://boj.kr/2243 |
-| Silver 5 | 2251 | **물통** | [/boj/2251.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2251.cpp) | http://boj.kr/2251 |
-| Gold 5 | 2268 | **수들의 합 7** | [/boj/2268.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2268.cpp) | http://boj.kr/2268 |
-| Bronze 2 | 2292 | **벌집** | [/boj/2292.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2292.c) | http://boj.kr/2292 |
-| Gold 5 | 2293 | **동전 1** | [/boj/2293.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2293.c) | http://boj.kr/2293 |
-| Silver 5 | 2302 | **극장 좌석** | [/boj/2302.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2302.cpp) | http://boj.kr/2302 |
-| Silver 2 | 2304 | **창고 다각형** | [/boj/2304.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2304.cpp) | http://boj.kr/2304 |
-| Gold 5 | 2357 | **최솟값과 최댓값** | [/boj/2357.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2357.cpp) | http://boj.kr/2357 |
-| Bronze 3 | 2438 | **별 찍기 - 1** | [/boj/2438.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2438.c) | http://boj.kr/2438 |
-| Bronze 3 | 2439 | **별 찍기 - 2** | [/boj/2439.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2439.c) | http://boj.kr/2439 |
-| Silver 5 | 2447 | **별 찍기 - 10** | [/boj/2447.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2447.cpp) | http://boj.kr/2447 |
-| Silver 5 | 2468 | **안전 영역** | [/boj/2468.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2468.cpp) | http://boj.kr/2468 |
-| Bronze 5 | 2475 | **검증수** | [/boj/2475.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2475.c) | http://boj.kr/2475 |
-| Silver 3 | 2491 | **수열** | [/boj/2491.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2491.cpp) | http://boj.kr/2491 |
-| Silver 5 | 2502 | **떡 먹는 호랑이** | [/boj/2502.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2502.c) | http://boj.kr/2502 |
-| Silver 3 | 2512 | **예산** | [/boj/2512.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2512.cpp) | http://boj.kr/2512 |
-| Gold 4 | 2573 | **빙산** | [/boj/2573.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2573.cpp) | http://boj.kr/2573 |
-| Silver 3 | 2579 | **계단 오르기** | [/boj/2579.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2579.c) | http://boj.kr/2579 |
-| Silver 5 | 2583 | **영역 구하기** | [/boj/2583.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2583.cpp) | http://boj.kr/2583 |
-| Gold 5 | 2589 | **보물섬** | [/boj/2589.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2589.cpp) | http://boj.kr/2589 |
-| Silver 3 | 2606 | **바이러스** | [/boj/2606.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2606.cpp) | http://boj.kr/2606 |
-| Silver 5 | 2609 | **최대공약수와 최소공배수** | [/boj/2609.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2609.c) | http://boj.kr/2609 |
-| Gold 5 | 2631 | **줄세우기** | [/boj/2631.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2631.c) | http://boj.kr/2631 |
-| Gold 5 | 2636 | **치즈** | [/boj/2636.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2636.cpp) | http://boj.kr/2636 |
-| Gold 4 | 2638 | **치즈** | [/boj/2638.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2638.cpp) | http://boj.kr/2638 |
-| Silver 2 | 2644 | **촌수계산** | [/boj/2644.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2644.cpp) | http://boj.kr/2644 |
-| Silver 5 | 2667 | **단지번호붙이기** | [/boj/2667.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2667.cpp) | http://boj.kr/2667 |
-| Gold 5 | 2668 | **숫자고르기** | [/boj/2668.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2668.cpp) | http://boj.kr/2668 |
-| Bronze 3 | 2747 | **피보나치 수** | [/boj/2747.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2747.cpp) | http://boj.kr/2747 |
-| Bronze 5 | 2748 | **피보나치 수 2** | [/boj/2748.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2748.cpp) | http://boj.kr/2748 |
-| Silver 5 | 2751 | **수 정렬하기 2** | [/boj/2751.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2751.cpp) | http://boj.kr/2751 |
-| Silver 4 | 2776 | **암기왕** | [/boj/2776.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2776.cpp) | http://boj.kr/2776 |
-| Bronze 2 | 2798 | **블랙잭** | [/boj/2798.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2798.c) | http://boj.kr/2798 |
-| Silver 3 | 2805 | **나무 자르기** | [/boj/2805.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2805.cpp) | http://boj.kr/2805 |
-| Bronze 5 | 2828 | **사과 담기 게임** | [/boj/2828.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2828.c) | http://boj.kr/2828 |
-| Bronze 5 | 2845 | **파티가 끝나고 난 뒤** | [/boj/2845.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2845.c) | http://boj.kr/2845 |
-| Bronze 3 | 2884 | **알람 시계** | [/boj/2884.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2884.c) | http://boj.kr/2884 |
-| Silver 5 | 2891 | **카약과 강풍** | [/boj/2891.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/2891.c) | http://boj.kr/2891 |
-| Platinum 4 | 3006 | **터보소트** | [/boj/3006.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/3006.cpp) | http://boj.kr/3006 |
-| Silver 2 | 3184 | **양** | [/boj/3184.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/3184.cpp) | http://boj.kr/3184 |
-| Platinum 4 | 3653 | **영화 수집** | [/boj/3653.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/3653.cpp) | http://boj.kr/3653 |
-| Gold 2 | 4195 | **친구 네트워크** | [/boj/4195.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/4195.cpp) | http://boj.kr/4195 |
-| Gold 3 | 4256 | **트리** | [/boj/4256.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/4256.cpp) | http://boj.kr/4256 |
-| Bronze 5 | 4344 | **평균은 넘겠지** | [/boj/4344.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/4344.c) | http://boj.kr/4344 |
-| Silver 5 | 4673 | **셀프 넘버** | [/boj/4673.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/4673.c) | http://boj.kr/4673 |
-| Silver 5 | 4796 | **캠핑** | [/boj/4796.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/4796.c) | http://boj.kr/4796 |
-| Gold 5 | 4811 | **알약** | [/boj/4811.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/4811.c) | http://boj.kr/4811 |
-| Silver 5 | 4889 | **안정적인 문자열** | [/boj/4889.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/4889.cpp) | http://boj.kr/4889 |
-| Silver 2 | 4963 | **섬의 개수** | [/boj/4963.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/4963.cpp) | http://boj.kr/4963 |
-| Gold 5 | 5430 | **AC** | [/boj/5430.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/5430.cpp) | http://boj.kr/5430 |
-| Silver 3 | 5545 | **최고의 피자** | [/boj/5545.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/5545.cpp) | http://boj.kr/5545 |
-| Bronze 2 | 5585 | **거스름돈** | [/boj/5585.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/5585.c) | http://boj.kr/5585 |
-| Silver 2 | 6603 | **로또** | [/boj/6603.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/6603.cpp) | http://boj.kr/6603 |
-| Silver 2 | 7562 | **나이트의 이동** | [/boj/7562.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/7562.cpp) | http://boj.kr/7562 |
-| Silver 5 | 7568 | **덩치** | [/boj/7568.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/7568.cpp) | http://boj.kr/7568 |
-| Silver 5 | 7569 | **토마토** | [/boj/7569.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/7569.cpp) | http://boj.kr/7569 |
-| Silver 5 | 7576 | **토마토** | [/boj/7576.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/7576.cpp) | http://boj.kr/7576 |
-| Platinum 5 | 7578 | **공장** | [/boj/7578.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/7578.cpp) | http://boj.kr/7578 |
-| Gold 3 | 7869 | **두 원** | [/boj/7869.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/7869.cpp) | http://boj.kr/7869 |
-| Bronze 2 | 8958 | **OX퀴즈** | [/boj/8958.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/8958.cpp) | http://boj.kr/8958 |
-| Gold 3 | 8980 | **택배** | [/boj/8980.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/8980.cpp) | http://boj.kr/8980 |
-| Silver 5 | 9009 | **피보나치** | [/boj/9009.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9009.cpp) | http://boj.kr/9009 |
-| Silver 4 | 9012 | **괄호** | [/boj/9012.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9012.cpp) | http://boj.kr/9012 |
-| Silver 3 | 9095 | **1, 2, 3 더하기** | [/boj/9095.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9095.cpp) | http://boj.kr/9095 |
-| Gold 5 | 9251 | **LCS** | [/boj/9251.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9251.cpp) | http://boj.kr/9251 |
-| Gold 5 | 9252 | **LCS 2** | [/boj/9252.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9252.cpp) | http://boj.kr/9252 |
-| Silver 3 | 9461 | **파도반 수열** | [/boj/9461.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9461.c) | http://boj.kr/9461 |
-| Silver 5 | 9655 | **돌 게임** | [/boj/9655.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9655.c) | http://boj.kr/9655 |
-| Silver 3 | 9657 | **돌 게임 3** | [/boj/9657.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9657.cpp) | http://boj.kr/9657 |
-| Gold 5 | 9663 | **N-Queen** | [/boj/9663.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/9663.cpp) | http://boj.kr/9663 |
-| Gold 5 | 10026 | **적록색약** | [/boj/10026.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10026.cpp) | http://boj.kr/10026 |
-| Silver 3 | 10799 | **쇠막대기** | [/boj/10799.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10799.cpp) | http://boj.kr/10799 |
-| Silver 4 | 10815 | **숫자 카드** | [/boj/10815.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10815.cpp) | http://boj.kr/10815 |
-| Silver 4 | 10816 | **숫자 카드 2** | [/boj/10816.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10816.cpp) | http://boj.kr/10816 |
-| Silver 2 | 10819 | **차이를 최대로** | [/boj/10819.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10819.cpp) | http://boj.kr/10819 |
-| Silver 4 | 10828 | **스택** | [/boj/10828.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10828.cpp) | http://boj.kr/10828 |
-| Silver 5 | 10844 | **쉬운 계단 수** | [/boj/10844.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10844.cpp) | http://boj.kr/10844 |
-| Silver 4 | 10845 | **큐** | [/boj/10845.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10845.cpp) | http://boj.kr/10845 |
-| Silver 4 | 10866 | **덱** | [/boj/10866.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10866.cpp) | http://boj.kr/10866 |
-| Bronze 5 | 10869 | **사칙연산** | [/boj/10869.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10869.c) | http://boj.kr/10869 |
-| Bronze 3 | 10871 | **X보다 작은 수** | [/boj/10871.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10871.c) | http://boj.kr/10871 |
-| Silver 3 | 10974 | **모든 순열** | [/boj/10974.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/10974.c) | http://boj.kr/10974 |
-| Gold 5 | 11000 | **강의실 배정** | [/boj/11000.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11000.cpp) | http://boj.kr/11000 |
-| Platinum 5 | 11003 | **최솟값 찾기** | [/boj/11003.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11003.cpp) | http://boj.kr/11003 |
-| Silver 2 | 11047 | **동전 0** | [/boj/11047.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11047.c) | http://boj.kr/11047 |
-| Silver 5 | 11052 | **카드 구매하기** | [/boj/11052.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11052.c) | http://boj.kr/11052 |
-| Silver 2 | 11053 | **가장 긴 증가하는 부분 수열** | [/boj/11053.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11053.c) | http://boj.kr/11053 |
-| Silver 2 | 11055 | **가장 큰 증가 부분 수열** | [/boj/11055.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11055.c) | http://boj.kr/11055 |
-| Silver 5 | 11057 | **오르막 수** | [/boj/11057.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11057.c) | http://boj.kr/11057 |
-| Silver 5 | 11286 | **절댓값 힙** | [/boj/11286.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11286.cpp) | http://boj.kr/11286 |
-| Silver 3 | 11399 | **ATM** | [/boj/11399.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11399.cpp) | http://boj.kr/11399 |
-| Silver 5 | 11403 | **경로 찾기** | [/boj/11403.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11403.c) | http://boj.kr/11403 |
-| Gold 4 | 11404 | **플로이드** | [/boj/11404.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11404.cpp) | http://boj.kr/11404 |
-| Silver 5 | 11497 | **통나무 건너뛰기** | [/boj/11497.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11497.cpp) | http://boj.kr/11497 |
-| Silver 2 | 11501 | **주식** | [/boj/11501.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11501.cpp) | http://boj.kr/11501 |
-| Silver 4 | 11508 | **2+1 세일** | [/boj/11508.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11508.cpp) | http://boj.kr/11508 |
-| Silver 5 | 11650 | **좌표 정렬하기** | [/boj/11650.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11650.cpp) | http://boj.kr/11650 |
-| Silver 5 | 11651 | **좌표 정렬하기 2** | [/boj/11651.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11651.cpp) | http://boj.kr/11651 |
-| Silver 5 | 11660 | **구간 합 구하기 5** | [/boj/11660.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11660.cpp) | http://boj.kr/11660 |
-| Silver 2 | 11722 | **가장 긴 감소하는 부분 수열** | [/boj/11722.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11722.c) | http://boj.kr/11722 |
-| Silver 2 | 11724 | **연결 요소의 개수** | [/boj/11724.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11724.cpp) | http://boj.kr/11724 |
-| Silver 2 | 11725 | **트리의 부모 찾기** | [/boj/11725.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11725.cpp) | http://boj.kr/11725 |
-| Silver 3 | 11726 | **2×n 타일링** | [/boj/11726.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11726.cpp) | http://boj.kr/11726 |
-| Silver 3 | 11727 | **2×n 타일링 2** | [/boj/11727.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11727.cpp) | http://boj.kr/11727 |
-| Silver 4 | 11866 | **요세푸스 문제 0** | [/boj/11866.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/11866.cpp) | http://boj.kr/11866 |
-| Gold 2 | 12015 | **가장 긴 증가하는 부분 수열 2** | [/boj/12015.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/12015.cpp) | http://boj.kr/12015 |
-| Silver 5 | 12782 | **비트 우정지수** | [/boj/12782.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/12782.cpp) | http://boj.kr/12782 |
-| Silver 3 | 12845 | **모두의 마블** | [/boj/12845.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/12845.c) | http://boj.kr/12845 |
-| Silver 5 | 12852 | **1로 만들기 2** | [/boj/12852.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/12852.cpp) | http://boj.kr/12852 |
-| Gold 5 | 12904 | **A와 B** | [/boj/12904.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/12904.cpp) | http://boj.kr/12904 |
-| Gold 5 | 13164 | **행복 유치원** | [/boj/13164.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/13164.cpp) | http://boj.kr/13164 |
-| Gold 3 | 13168 | **내일로 여행** | [/boj/13168.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/13168.cpp) | http://boj.kr/13168 |
-| Silver 4 | 13305 | **주유소** | [/boj/13305.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/13305.c) | http://boj.kr/13305 |
-| Gold 5 | 13398 | **연속합 2** | [/boj/13398.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/13398.cpp) | http://boj.kr/13398 |
-| Silver 4 | 13413 | **오셀로 재배치** | [/boj/13413.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/13413.cpp) | http://boj.kr/13413 |
-| Silver 3 | 13417 | **카드 문자열** | [/boj/13417.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/13417.cpp) | http://boj.kr/13417 |
-| Gold 5 | 13549 | **숨바꼭질 3** | [/boj/13549.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/13549.cpp) | http://boj.kr/13549 |
-| Gold 3 | 13904 | **과제** | [/boj/13904.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/13904.cpp) | http://boj.kr/13904 |
-| Gold 4 | 14002 | **가장 긴 증가하는 부분 수열 4** | [/boj/14002.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14002.cpp) | http://boj.kr/14002 |
-| Gold 5 | 14438 | **수열과 쿼리 17** | [/boj/14438.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14438.cpp) | http://boj.kr/14438 |
-| Gold 5 | 14500 | **테트로미노** | [/boj/14500.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14500.c) | http://boj.kr/14500 |
-| Silver 3 | 14501 | **퇴사** | [/boj/14501.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14501.cpp) | http://boj.kr/14501 |
-| Gold 5 | 14502 | **연구소** | [/boj/14502.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14502.cpp) | http://boj.kr/14502 |
-| Bronze 2 | 14659 | **한조서열정리하고옴ㅋㅋ** | [/boj/14659.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14659.c) | http://boj.kr/14659 |
-| Gold 3 | 14718 | **용감한 용사 진수** | [/boj/14718.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14718.cpp) | http://boj.kr/14718 |
-| Silver 5 | 14888 | **연산자 끼워넣기** | [/boj/14888.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14888.cpp) | http://boj.kr/14888 |
-| Silver 3 | 14889 | **스타트와 링크** | [/boj/14889.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/14889.cpp) | http://boj.kr/14889 |
-| Platinum 5 | 15311 | **약 팔기** | [/boj/15311.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15311.c) | http://boj.kr/15311 |
-| Silver 3 | 15649 | **N과 M (1)** | [/boj/15649.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15649.c) | http://boj.kr/15649 |
-| Silver 3 | 15650 | **N과 M (2)** | [/boj/15650.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15650.c) | http://boj.kr/15650 |
-| Silver 3 | 15651 | **N과 M (3)** | [/boj/15651.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15651.c) | http://boj.kr/15651 |
-| Silver 3 | 15652 | **N과 M (4)** | [/boj/15652.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15652.c) | http://boj.kr/15652 |
-| Silver 3 | 15654 | **N과 M (5)** | [/boj/15654.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15654.cpp) | http://boj.kr/15654 |
-| Silver 3 | 15655 | **N과 M (6)** | [/boj/15655.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15655.cpp) | http://boj.kr/15655 |
-| Silver 3 | 15656 | **N과 M (7)** | [/boj/15656.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15656.cpp) | http://boj.kr/15656 |
-| Silver 3 | 15657 | **N과 M (8)** | [/boj/15657.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15657.cpp) | http://boj.kr/15657 |
-| Silver 2 | 15663 | **N과 M (9)** | [/boj/15663.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15663.cpp) | http://boj.kr/15663 |
-| Silver 2 | 15666 | **N과 M (12)** | [/boj/15666.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15666.cpp) | http://boj.kr/15666 |
-| Silver 2 | 15903 | **카드 합체 놀이** | [/boj/15903.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/15903.cpp) | http://boj.kr/15903 |
-| Gold 4 | 16120 | **PPAP** | [/boj/16120.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/16120.cpp) | http://boj.kr/16120 |
-| Silver 5 | 16435 | **스네이크버드** | [/boj/16435.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/16435.cpp) | http://boj.kr/16435 |
-| Silver 5 | 16507 | **어두운 건 무서워** | [/boj/16507.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/16507.cpp) | http://boj.kr/16507 |
-| Gold 2 | 16946 | **벽 부수고 이동하기 4** | [/boj/16946.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/16946.cpp) | http://boj.kr/16946 |
-| Silver 5 | 17521 | **Byte Coin** | [/boj/17521.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/17521.c) | http://boj.kr/17521 |
-| Silver 5 | 17609 | **회문** | [/boj/17609.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/17609.cpp) | http://boj.kr/17609 |
-| Silver 2 | 18870 | **좌표 압축** | [/boj/18870.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/18870.cpp) | http://boj.kr/18870 |
-| Silver 5 | 19539 | **사과나무** | [/boj/19539.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/19539.cpp) | http://boj.kr/19539 |
-| Silver 5 | 19939 | **박 터뜨리기** | [/boj/19939.c](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/19939.c) | http://boj.kr/19939 |
-| Silver 3 | 19941 | **햄버거 분배** | [/boj/19941.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/19941.cpp) | http://boj.kr/19941 |
-| Silver 5 | 20529 | **가장 가까운 세 사람의 심리적 거리** | [/boj/20529.cpp](https://github.com/ParkEunHyeok/Baekjoon/blob/master/01_ProblemSolving/20529.cpp) | http://boj.kr/20529 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 1000 | **A+B** | [/boj/1000.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1000.cpp) | http://boj.kr/1000 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 1550 | **16진수** | [/boj/1550.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1550.c) | http://boj.kr/1550 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 2475 | **검증수** | [/boj/2475.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2475.c) | http://boj.kr/2475 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 2845 | **파티가 끝나고 난 뒤** | [/boj/2845.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2845.c) | http://boj.kr/2845 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 10869 | **사칙연산** | [/boj/10869.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10869.c) | http://boj.kr/10869 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | 1330 | **두 수 비교하기** | [/boj/1330.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1330.c) | http://boj.kr/1330 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 1212 | **8진수 2진수** | [/boj/1212.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1212.c) | http://boj.kr/1212 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 1267 | **핸드폰 요금** | [/boj/1267.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1267.c) | http://boj.kr/1267 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 1598 | **꼬리를 무는 숫자 나열** | [/boj/1598.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1598.c) | http://boj.kr/1598 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 1837 | **암호제작** | [/boj/1837.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1837.c) | http://boj.kr/1837 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2438 | **별 찍기 - 1** | [/boj/2438.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2438.c) | http://boj.kr/2438 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2439 | **별 찍기 - 2** | [/boj/2439.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2439.c) | http://boj.kr/2439 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2747 | **피보나치 수** | [/boj/2747.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2747.cpp) | http://boj.kr/2747 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2884 | **알람 시계** | [/boj/2884.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2884.c) | http://boj.kr/2884 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 10871 | **X보다 작은 수** | [/boj/10871.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10871.c) | http://boj.kr/10871 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 23803 | **골뱅이 찍기 - ㄴ** | [/boj/23803.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/23803.c) | http://boj.kr/23803 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 23804 | **골뱅이 찍기 - ㄷ** | [/boj/23804.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/23804.c) | http://boj.kr/23804 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 23806 | **골뱅이 찍기 - ㅁ** | [/boj/23806.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/23806.c) | http://boj.kr/23806 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 23808 | **골뱅이 찍기 - ㅂ** | [/boj/23808.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/23808.c) | http://boj.kr/23808 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 23811 | **골뱅이 찍기 - ㅌ** | [/boj/23811.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/23811.c) | http://boj.kr/23811 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 23812 | **골뱅이 찍기 - 돌아간 ㅍ** | [/boj/23812.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/23812.c) | http://boj.kr/23812 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 1075 | **나누기** | [/boj/1075.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1075.c) | http://boj.kr/1075 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 1076 | **저항** | [/boj/1076.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1076.cpp) | http://boj.kr/1076 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 1100 | **하얀 칸** | [/boj/1100.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1100.c) | http://boj.kr/1100 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 1159 | **농구 경기** | [/boj/1159.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1159.c) | http://boj.kr/1159 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 1252 | **이진수 덧셈** | [/boj/1252.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1252.cpp) | http://boj.kr/1252 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 1952 | **달팽이2** | [/boj/1952.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1952.c) | http://boj.kr/1952 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 2292 | **벌집** | [/boj/2292.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2292.c) | http://boj.kr/2292 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 2798 | **블랙잭** | [/boj/2798.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2798.c) | http://boj.kr/2798 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 5585 | **거스름돈** | [/boj/5585.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/5585.c) | http://boj.kr/5585 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 8958 | **OX퀴즈** | [/boj/8958.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/8958.cpp) | http://boj.kr/8958 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 14659 | **한조서열정리하고옴ㅋㅋ** | [/boj/14659.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14659.c) | http://boj.kr/14659 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1032 | **명령 프롬프트** | [/boj/1032.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1032.cpp) | http://boj.kr/1032 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1110 | **더하기 사이클** | [/boj/1110.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1110.c) | http://boj.kr/1110 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1145 | **적어도 대부분의 배수** | [/boj/1145.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1145.c) | http://boj.kr/1145 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1236 | **성 지키기** | [/boj/1236.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1236.c) | http://boj.kr/1236 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1259 | **팰린드롬수** | [/boj/1259.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1259.cpp) | http://boj.kr/1259 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1268 | **임시 반장 정하기** | [/boj/1268.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1268.c) | http://boj.kr/1268 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1356 | **유진수** | [/boj/1356.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1356.cpp) | http://boj.kr/1356 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1357 | **뒤집힌 덧셈** | [/boj/1357.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1357.c) | http://boj.kr/1357 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 2748 | **피보나치 수 2** | [/boj/2748.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2748.cpp) | http://boj.kr/2748 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 4344 | **평균은 넘겠지** | [/boj/4344.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4344.c) | http://boj.kr/4344 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1010 | **다리 놓기** | [/boj/1010.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1010.c) | http://boj.kr/1010 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1018 | **체스판 다시 칠하기** | [/boj/1018.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1018.cpp) | http://boj.kr/1018 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1037 | **약수** | [/boj/1037.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1037.c) | http://boj.kr/1037 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1059 | **좋은 구간** | [/boj/1059.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1059.c) | http://boj.kr/1059 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1094 | **막대기** | [/boj/1094.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1094.c) | http://boj.kr/1094 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1158 | **요세푸스 문제** | [/boj/1158.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1158.cpp) | http://boj.kr/1158 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1181 | **단어 정렬** | [/boj/1181.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1181.cpp) | http://boj.kr/1181 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1246 | **온라인 판매** | [/boj/1246.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1246.cpp) | http://boj.kr/1246 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1312 | **소수** | [/boj/1312.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1312.c) | http://boj.kr/1312 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1316 | **그룹 단어 체커** | [/boj/1316.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1316.cpp) | http://boj.kr/1316 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1343 | **폴리오미노** | [/boj/1343.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1343.cpp) | http://boj.kr/1343 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1417 | **국회의원 선거** | [/boj/1417.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1417.cpp) | http://boj.kr/1417 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1439 | **뒤집기** | [/boj/1439.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1439.cpp) | http://boj.kr/1439 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1476 | **날짜 계산** | [/boj/1476.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1476.cpp) | http://boj.kr/1476 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1789 | **수들의 합** | [/boj/1789.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1789.cpp) | http://boj.kr/1789 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 2609 | **최대공약수와 최소공배수** | [/boj/2609.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2609.c) | http://boj.kr/2609 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 2751 | **수 정렬하기 2** | [/boj/2751.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2751.cpp) | http://boj.kr/2751 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 2828 | **사과 담기 게임** | [/boj/2828.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2828.c) | http://boj.kr/2828 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 2891 | **카약과 강풍** | [/boj/2891.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2891.c) | http://boj.kr/2891 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 4673 | **셀프 넘버** | [/boj/4673.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4673.c) | http://boj.kr/4673 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 4796 | **캠핑** | [/boj/4796.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4796.c) | http://boj.kr/4796 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 7568 | **덩치** | [/boj/7568.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/7568.cpp) | http://boj.kr/7568 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 9655 | **돌 게임** | [/boj/9655.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9655.c) | http://boj.kr/9655 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 11650 | **좌표 정렬하기** | [/boj/11650.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11650.cpp) | http://boj.kr/11650 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 11651 | **좌표 정렬하기 2** | [/boj/11651.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11651.cpp) | http://boj.kr/11651 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 16435 | **스네이크버드** | [/boj/16435.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/16435.cpp) | http://boj.kr/16435 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 17521 | **Byte Coin** | [/boj/17521.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/17521.c) | http://boj.kr/17521 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 19939 | **박 터뜨리기** | [/boj/19939.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/19939.c) | http://boj.kr/19939 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1026 | **보물** | [/boj/1026.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1026.cpp) | http://boj.kr/1026 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1065 | **한수** | [/boj/1065.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1065.cpp) | http://boj.kr/1065 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1758 | **알바생 강호** | [/boj/1758.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1758.cpp) | http://boj.kr/1758 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1783 | **병든 나이트** | [/boj/1783.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1783.c) | http://boj.kr/1783 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1920 | **수 찾기** | [/boj/1920.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1920.cpp) | http://boj.kr/1920 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1978 | **소수 찾기** | [/boj/1978.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1978.c) | http://boj.kr/1978 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2217 | **로프** | [/boj/2217.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2217.cpp) | http://boj.kr/2217 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2776 | **암기왕** | [/boj/2776.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2776.cpp) | http://boj.kr/2776 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 4949 | **균형잡힌 세상** | [/boj/4949.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4949.cpp) | http://boj.kr/4949 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 9012 | **괄호** | [/boj/9012.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9012.cpp) | http://boj.kr/9012 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10815 | **숫자 카드** | [/boj/10815.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10815.cpp) | http://boj.kr/10815 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10816 | **숫자 카드 2** | [/boj/10816.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10816.cpp) | http://boj.kr/10816 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10828 | **스택** | [/boj/10828.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10828.cpp) | http://boj.kr/10828 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10845 | **큐** | [/boj/10845.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10845.cpp) | http://boj.kr/10845 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10866 | **덱** | [/boj/10866.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10866.cpp) | http://boj.kr/10866 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 11508 | **2+1 세일** | [/boj/11508.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11508.cpp) | http://boj.kr/11508 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 11866 | **요세푸스 문제 0** | [/boj/11866.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11866.cpp) | http://boj.kr/11866 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 12782 | **비트 우정지수** | [/boj/12782.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/12782.cpp) | http://boj.kr/12782 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 13305 | **주유소** | [/boj/13305.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13305.c) | http://boj.kr/13305 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 13413 | **오셀로 재배치** | [/boj/13413.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13413.cpp) | http://boj.kr/13413 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1003 | **피보나치 함수** | [/boj/1003.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1003.c) | http://boj.kr/1003 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1051 | **숫자 정사각형** | [/boj/1051.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1051.cpp) | http://boj.kr/1051 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1057 | **토너먼트** | [/boj/1057.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1057.c) | http://boj.kr/1057 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1406 | **에디터** | [/boj/1406.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1406.cpp) | http://boj.kr/1406 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1449 | **수리공 항승** | [/boj/1449.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1449.cpp) | http://boj.kr/1449 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1654 | **랜선 자르기** | [/boj/1654.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1654.cpp) | http://boj.kr/1654 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1699 | **제곱수의 합** | [/boj/1699.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1699.cpp) | http://boj.kr/1699 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1748 | **수 이어 쓰기 1** | [/boj/1748.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1748.cpp) | http://boj.kr/1748 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1904 | **01타일** | [/boj/1904.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1904.c) | http://boj.kr/1904 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1966 | **프린터 큐** | [/boj/1966.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1966.cpp) | http://boj.kr/1966 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2012 | **등수 매기기** | [/boj/2012.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2012.cpp) | http://boj.kr/2012 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2193 | **이친수** | [/boj/2193.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2193.cpp) | http://boj.kr/2193 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2491 | **수열** | [/boj/2491.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2491.cpp) | http://boj.kr/2491 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2512 | **예산** | [/boj/2512.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2512.cpp) | http://boj.kr/2512 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2579 | **계단 오르기** | [/boj/2579.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2579.c) | http://boj.kr/2579 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2606 | **바이러스** | [/boj/2606.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2606.cpp) | http://boj.kr/2606 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2805 | **나무 자르기** | [/boj/2805.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2805.cpp) | http://boj.kr/2805 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 3085 | **사탕 게임** | [/boj/3085.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/3085.cpp) | http://boj.kr/3085 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 5545 | **최고의 피자** | [/boj/5545.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/5545.cpp) | http://boj.kr/5545 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 9095 | **1, 2, 3 더하기** | [/boj/9095.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9095.cpp) | http://boj.kr/9095 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 9461 | **파도반 수열** | [/boj/9461.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9461.c) | http://boj.kr/9461 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 9657 | **돌 게임 3** | [/boj/9657.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9657.cpp) | http://boj.kr/9657 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 10211 | **Maximum Subarray** | [/boj/10211.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10211.cpp) | http://boj.kr/10211 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 10799 | **쇠막대기** | [/boj/10799.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10799.cpp) | http://boj.kr/10799 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 10974 | **모든 순열** | [/boj/10974.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10974.c) | http://boj.kr/10974 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 11399 | **ATM** | [/boj/11399.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11399.cpp) | http://boj.kr/11399 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 11726 | **2×n 타일링** | [/boj/11726.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11726.cpp) | http://boj.kr/11726 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 11727 | **2×n 타일링 2** | [/boj/11727.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11727.cpp) | http://boj.kr/11727 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 12845 | **모두의 마블** | [/boj/12845.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/12845.c) | http://boj.kr/12845 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 13417 | **카드 문자열** | [/boj/13417.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13417.cpp) | http://boj.kr/13417 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 14501 | **퇴사** | [/boj/14501.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14501.cpp) | http://boj.kr/14501 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 15649 | **N과 M (1)** | [/boj/15649.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15649.cpp) | http://boj.kr/15649 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 15650 | **N과 M (2)** | [/boj/15650.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15650.c) | http://boj.kr/15650 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 15651 | **N과 M (3)** | [/boj/15651.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15651.c) | http://boj.kr/15651 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 15652 | **N과 M (4)** | [/boj/15652.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15652.c) | http://boj.kr/15652 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 15654 | **N과 M (5)** | [/boj/15654.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15654.cpp) | http://boj.kr/15654 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 15655 | **N과 M (6)** | [/boj/15655.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15655.cpp) | http://boj.kr/15655 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 15656 | **N과 M (7)** | [/boj/15656.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15656.cpp) | http://boj.kr/15656 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 15657 | **N과 M (8)** | [/boj/15657.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15657.cpp) | http://boj.kr/15657 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 18310 | **안테나** | [/boj/18310.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/18310.cpp) | http://boj.kr/18310 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 19599 | **이진 삼진 탐색 놀이 1** | [/boj/19599.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/19599.cpp) | http://boj.kr/19599 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 19621 | **회의실 배정 2** | [/boj/19621.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/19621.cpp) | http://boj.kr/19621 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 19941 | **햄버거 분배** | [/boj/19941.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/19941.cpp) | http://boj.kr/19941 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 23814 | **아 저는 볶음밥이요** | [/boj/23814.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/23814.cpp) | http://boj.kr/23814 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1012 | **유기농 배추** | [/boj/1012.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1012.cpp) | http://boj.kr/1012 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1182 | **부분수열의 합** | [/boj/1182.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1182.cpp) | http://boj.kr/1182 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1260 | **DFS와 BFS** | [/boj/1260.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1260.cpp) | http://boj.kr/1260 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1326 | **폴짝폴짝** | [/boj/1326.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1326.cpp) | http://boj.kr/1326 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1535 | **안녕** | [/boj/1535.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1535.cpp) | http://boj.kr/1535 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1541 | **잃어버린 괄호** | [/boj/1541.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1541.cpp) | http://boj.kr/1541 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1564 | **팩토리얼5** | [/boj/1564.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1564.c) | http://boj.kr/1564 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1890 | **점프** | [/boj/1890.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1890.cpp) | http://boj.kr/1890 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1912 | **연속합** | [/boj/1912.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1912.c) | http://boj.kr/1912 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1927 | **최소 힙** | [/boj/1927.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1927.cpp) | http://boj.kr/1927 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1929 | **소수 구하기** | [/boj/1929.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1929.c) | http://boj.kr/1929 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1931 | **회의실 배정** | [/boj/1931.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1931.cpp) | http://boj.kr/1931 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 2304 | **창고 다각형** | [/boj/2304.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2304.cpp) | http://boj.kr/2304 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 2644 | **촌수계산** | [/boj/2644.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2644.cpp) | http://boj.kr/2644 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 3184 | **양** | [/boj/3184.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/3184.cpp) | http://boj.kr/3184 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 4963 | **섬의 개수** | [/boj/4963.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4963.cpp) | http://boj.kr/4963 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 6603 | **로또** | [/boj/6603.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/6603.cpp) | http://boj.kr/6603 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 7562 | **나이트의 이동** | [/boj/7562.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/7562.cpp) | http://boj.kr/7562 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 10819 | **차이를 최대로** | [/boj/10819.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10819.cpp) | http://boj.kr/10819 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 10971 | **외판원 순회 2** | [/boj/10971.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10971.cpp) | http://boj.kr/10971 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11047 | **동전 0** | [/boj/11047.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11047.c) | http://boj.kr/11047 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11053 | **가장 긴 증가하는 부분 수열** | [/boj/11053.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11053.cpp) | http://boj.kr/11053 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11055 | **가장 큰 증가 부분 수열** | [/boj/11055.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11055.c) | http://boj.kr/11055 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11501 | **주식** | [/boj/11501.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11501.cpp) | http://boj.kr/11501 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11722 | **가장 긴 감소하는 부분 수열** | [/boj/11722.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11722.c) | http://boj.kr/11722 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11724 | **연결 요소의 개수** | [/boj/11724.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11724.cpp) | http://boj.kr/11724 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11725 | **트리의 부모 찾기** | [/boj/11725.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11725.cpp) | http://boj.kr/11725 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 14889 | **스타트와 링크** | [/boj/14889.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14889.cpp) | http://boj.kr/14889 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15663 | **N과 M (9)** | [/boj/15663.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15663.cpp) | http://boj.kr/15663 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15664 | **N과 M (10)** | [/boj/15664.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15664.cpp) | http://boj.kr/15664 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15666 | **N과 M (12)** | [/boj/15666.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15666.cpp) | http://boj.kr/15666 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15903 | **카드 합체 놀이** | [/boj/15903.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15903.cpp) | http://boj.kr/15903 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 18870 | **좌표 압축** | [/boj/18870.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/18870.cpp) | http://boj.kr/18870 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1074 | **Z** | [/boj/1074.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1074.cpp) | http://boj.kr/1074 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1080 | **행렬** | [/boj/1080.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1080.cpp) | http://boj.kr/1080 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1149 | **RGB거리** | [/boj/1149.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1149.c) | http://boj.kr/1149 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1254 | **팰린드롬 만들기** | [/boj/1254.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1254.cpp) | http://boj.kr/1254 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1309 | **동물원** | [/boj/1309.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1309.c) | http://boj.kr/1309 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1325 | **효율적인 해킹** | [/boj/1325.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1325.cpp) | http://boj.kr/1325 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1389 | **케빈 베이컨의 6단계 법칙** | [/boj/1389.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1389.c) | http://boj.kr/1389 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1629 | **곱셈** | [/boj/1629.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1629.cpp) | http://boj.kr/1629 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1697 | **숨바꼭질** | [/boj/1697.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1697.cpp) | http://boj.kr/1697 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1743 | **음식물 피하기** | [/boj/1743.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1743.cpp) | http://boj.kr/1743 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1932 | **정수 삼각형** | [/boj/1932.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1932.c) | http://boj.kr/1932 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1946 | **신입 사원** | [/boj/1946.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1946.cpp) | http://boj.kr/1946 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1991 | **트리 순회** | [/boj/1991.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1991.cpp) | http://boj.kr/1991 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 1992 | **쿼드트리** | [/boj/1992.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1992.cpp) | http://boj.kr/1992 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2011 | **암호코드** | [/boj/2011.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2011.cpp) | http://boj.kr/2011 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2156 | **포도주 시식** | [/boj/2156.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2156.c) | http://boj.kr/2156 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2178 | **미로 탐색** | [/boj/2178.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2178.cpp) | http://boj.kr/2178 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2251 | **물통** | [/boj/2251.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2251.cpp) | http://boj.kr/2251 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2302 | **극장 좌석** | [/boj/2302.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2302.cpp) | http://boj.kr/2302 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2343 | **기타 레슨** | [/boj/2343.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2343.cpp) | http://boj.kr/2343 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2447 | **별 찍기 - 10** | [/boj/2447.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2447.cpp) | http://boj.kr/2447 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2468 | **안전 영역** | [/boj/2468.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2468.cpp) | http://boj.kr/2468 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2502 | **떡 먹는 호랑이** | [/boj/2502.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2502.c) | http://boj.kr/2502 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2583 | **영역 구하기** | [/boj/2583.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2583.cpp) | http://boj.kr/2583 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 2667 | **단지번호붙이기** | [/boj/2667.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2667.cpp) | http://boj.kr/2667 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 4889 | **안정적인 문자열** | [/boj/4889.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4889.cpp) | http://boj.kr/4889 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 9009 | **피보나치** | [/boj/9009.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9009.cpp) | http://boj.kr/9009 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 10844 | **쉬운 계단 수** | [/boj/10844.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10844.cpp) | http://boj.kr/10844 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11052 | **카드 구매하기** | [/boj/11052.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11052.c) | http://boj.kr/11052 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11057 | **오르막 수** | [/boj/11057.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11057.c) | http://boj.kr/11057 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11286 | **절댓값 힙** | [/boj/11286.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11286.cpp) | http://boj.kr/11286 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11403 | **경로 찾기** | [/boj/11403.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11403.c) | http://boj.kr/11403 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11497 | **통나무 건너뛰기** | [/boj/11497.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11497.cpp) | http://boj.kr/11497 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11660 | **구간 합 구하기 5** | [/boj/11660.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11660.cpp) | http://boj.kr/11660 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11729 | **하노이 탑 이동 순서** | [/boj/11729.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11729.cpp) | http://boj.kr/11729 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 12852 | **1로 만들기 2** | [/boj/12852.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/12852.cpp) | http://boj.kr/12852 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 14888 | **연산자 끼워넣기** | [/boj/14888.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14888.cpp) | http://boj.kr/14888 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 14891 | **톱니바퀴** | [/boj/14891.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14891.cpp) | http://boj.kr/14891 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 16194 | **카드 구매하기 2** | [/boj/16194.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/16194.cpp) | http://boj.kr/16194 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 16507 | **어두운 건 무서워** | [/boj/16507.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/16507.cpp) | http://boj.kr/16507 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 16953 | **A → B** | [/boj/16953.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/16953.cpp) | http://boj.kr/16953 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 17609 | **회문** | [/boj/17609.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/17609.cpp) | http://boj.kr/17609 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 19539 | **사과나무** | [/boj/19539.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/19539.cpp) | http://boj.kr/19539 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 20529 | **가장 가까운 세 사람의 심리적 거리** | [/boj/20529.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/20529.cpp) | http://boj.kr/20529 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1038 | **감소하는 수** | [/boj/1038.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1038.cpp) | http://boj.kr/1038 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1068 | **트리** | [/boj/1068.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1068.cpp) | http://boj.kr/1068 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1092 | **배** | [/boj/1092.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1092.cpp) | http://boj.kr/1092 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1107 | **리모컨** | [/boj/1107.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1107.cpp) | http://boj.kr/1107 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1662 | **압축** | [/boj/1662.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1662.cpp) | http://boj.kr/1662 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1753 | **최단경로** | [/boj/1753.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1753.cpp) | http://boj.kr/1753 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1759 | **암호 만들기** | [/boj/1759.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1759.cpp) | http://boj.kr/1759 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1916 | **최소비용 구하기** | [/boj/1916.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1916.cpp) | http://boj.kr/1916 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2110 | **공유기 설치** | [/boj/2110.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2110.cpp) | http://boj.kr/2110 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2166 | **다각형의 면적** | [/boj/2166.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2166.cpp) | http://boj.kr/2166 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2293 | **동전 1** | [/boj/2293.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2293.c) | http://boj.kr/2293 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2467 | **용액** | [/boj/2467.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2467.cpp) | http://boj.kr/2467 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2470 | **두 용액** | [/boj/2470.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2470.cpp) | http://boj.kr/2470 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2589 | **보물섬** | [/boj/2589.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2589.cpp) | http://boj.kr/2589 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2631 | **줄세우기** | [/boj/2631.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2631.c) | http://boj.kr/2631 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2636 | **치즈** | [/boj/2636.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2636.cpp) | http://boj.kr/2636 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2668 | **숫자고르기** | [/boj/2668.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2668.cpp) | http://boj.kr/2668 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 3020 | **개똥벌레** | [/boj/3020.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/3020.cpp) | http://boj.kr/3020 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 3190 | **뱀** | [/boj/3190.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/3190.cpp) | http://boj.kr/3190 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 4811 | **알약** | [/boj/4811.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4811.c) | http://boj.kr/4811 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 5430 | **AC** | [/boj/5430.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/5430.cpp) | http://boj.kr/5430 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 5557 | **1학년** | [/boj/5557.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/5557.cpp) | http://boj.kr/5557 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 6416 | **트리인가?** | [/boj/6416.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/6416.cpp) | http://boj.kr/6416 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 7569 | **토마토** | [/boj/7569.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/7569.cpp) | http://boj.kr/7569 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 7576 | **토마토** | [/boj/7576.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/7576.cpp) | http://boj.kr/7576 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 9251 | **LCS** | [/boj/9251.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9251.cpp) | http://boj.kr/9251 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 9663 | **N-Queen** | [/boj/9663.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9663.cpp) | http://boj.kr/9663 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 10026 | **적록색약** | [/boj/10026.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10026.cpp) | http://boj.kr/10026 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 11000 | **강의실 배정** | [/boj/11000.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11000.cpp) | http://boj.kr/11000 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 12865 | **평범한 배낭** | [/boj/12865.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/12865.cpp) | http://boj.kr/12865 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 12904 | **A와 B** | [/boj/12904.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/12904.cpp) | http://boj.kr/12904 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 13164 | **행복 유치원** | [/boj/13164.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13164.cpp) | http://boj.kr/13164 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 13398 | **연속합 2** | [/boj/13398.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13398.cpp) | http://boj.kr/13398 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 13549 | **숨바꼭질 3** | [/boj/13549.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13549.cpp) | http://boj.kr/13549 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 14226 | **이모티콘** | [/boj/14226.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14226.cpp) | http://boj.kr/14226 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 14500 | **테트로미노** | [/boj/14500.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14500.c) | http://boj.kr/14500 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 14502 | **연구소** | [/boj/14502.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14502.cpp) | http://boj.kr/14502 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 14503 | **로봇 청소기** | [/boj/14503.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14503.cpp) | http://boj.kr/14503 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 14567 | **선수과목 (Prerequisite)** | [/boj/14567.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14567.cpp) | http://boj.kr/14567 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 15683 | **감시** | [/boj/15683.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15683.cpp) | http://boj.kr/15683 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 15686 | **치킨 배달** | [/boj/15686.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15686.cpp) | http://boj.kr/15686 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 18869 | **멀티버스 Ⅱ** | [/boj/18869.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/18869.cpp) | http://boj.kr/18869 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1043 | **거짓말** | [/boj/1043.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1043.cpp) | http://boj.kr/1043 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1197 | **최소 스패닝 트리** | [/boj/1197.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1197.cpp) | http://boj.kr/1197 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1339 | **단어 수학** | [/boj/1339.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1339.cpp) | http://boj.kr/1339 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1520 | **내리막 길** | [/boj/1520.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1520.cpp) | http://boj.kr/1520 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1647 | **도시 분할 계획** | [/boj/1647.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1647.cpp) | http://boj.kr/1647 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1715 | **카드 정렬하기** | [/boj/1715.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1715.cpp) | http://boj.kr/1715 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1717 | **집합의 표현** | [/boj/1717.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1717.cpp) | http://boj.kr/1717 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1806 | **부분합** | [/boj/1806.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1806.cpp) | http://boj.kr/1806 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1922 | **네트워크 연결** | [/boj/1922.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1922.cpp) | http://boj.kr/1922 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1956 | **운동** | [/boj/1956.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1956.c) | http://boj.kr/1956 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1967 | **트리의 지름** | [/boj/1967.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1967.cpp) | http://boj.kr/1967 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1976 | **여행 가자** | [/boj/1976.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1976.cpp) | http://boj.kr/1976 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1987 | **알파벳** | [/boj/1987.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1987.cpp) | http://boj.kr/1987 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 2206 | **벽 부수고 이동하기** | [/boj/2206.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2206.cpp) | http://boj.kr/2206 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 2239 | **스도쿠** | [/boj/2239.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2239.cpp) | http://boj.kr/2239 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 2473 | **세 용액** | [/boj/2473.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2473.cpp) | http://boj.kr/2473 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 2573 | **빙산** | [/boj/2573.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2573.cpp) | http://boj.kr/2573 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 2638 | **치즈** | [/boj/2638.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2638.cpp) | http://boj.kr/2638 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 2812 | **크게 만들기** | [/boj/2812.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2812.cpp) | http://boj.kr/2812 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 4179 | **불!** | [/boj/4179.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4179.cpp) | http://boj.kr/4179 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 4386 | **별자리 만들기** | [/boj/4386.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4386.cpp) | http://boj.kr/4386 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 9252 | **LCS 2** | [/boj/9252.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/9252.cpp) | http://boj.kr/9252 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 11404 | **플로이드** | [/boj/11404.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11404.cpp) | http://boj.kr/11404 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 11559 | **Puyo Puyo** | [/boj/11559.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11559.cpp) | http://boj.kr/11559 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 13913 | **숨바꼭질 4** | [/boj/13913.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13913.cpp) | http://boj.kr/13913 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 14002 | **가장 긴 증가하는 부분 수열 4** | [/boj/14002.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14002.cpp) | http://boj.kr/14002 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 14499 | **주사위 굴리기** | [/boj/14499.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14499.cpp) | http://boj.kr/14499 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 16120 | **PPAP** | [/boj/16120.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/16120.cpp) | http://boj.kr/16120 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 19600 | **이진 삼진 탐색 놀이 2** | [/boj/19600.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/19600.cpp) | http://boj.kr/19600 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 20040 | **사이클 게임** | [/boj/20040.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/20040.cpp) | http://boj.kr/20040 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 1005 | **ACM Craft** | [/boj/1005.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1005.cpp) | http://boj.kr/1005 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 1238 | **파티** | [/boj/1238.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1238.cpp) | http://boj.kr/1238 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 1516 | **게임 개발** | [/boj/1516.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1516.cpp) | http://boj.kr/1516 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 1613 | **역사** | [/boj/1613.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1613.cpp) | http://boj.kr/1613 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 1826 | **연료 채우기** | [/boj/1826.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1826.cpp) | http://boj.kr/1826 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 1918 | **후위 표기식** | [/boj/1918.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1918.cpp) | http://boj.kr/1918 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 2146 | **다리 만들기** | [/boj/2146.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2146.cpp) | http://boj.kr/2146 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 2252 | **줄 세우기** | [/boj/2252.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2252.cpp) | http://boj.kr/2252 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 2342 | **Dance Dance Revolution** | [/boj/2342.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2342.cpp) | http://boj.kr/2342 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 2437 | **저울** | [/boj/2437.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2437.cpp) | http://boj.kr/2437 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 4256 | **트리** | [/boj/4256.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4256.cpp) | http://boj.kr/4256 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 7869 | **두 원** | [/boj/7869.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/7869.cpp) | http://boj.kr/7869 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 8980 | **택배** | [/boj/8980.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/8980.cpp) | http://boj.kr/8980 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 10942 | **팰린드롬?** | [/boj/10942.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10942.cpp) | http://boj.kr/10942 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 13168 | **내일로 여행** | [/boj/13168.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13168.cpp) | http://boj.kr/13168 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 13904 | **과제** | [/boj/13904.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/13904.cpp) | http://boj.kr/13904 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 14718 | **용감한 용사 진수** | [/boj/14718.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14718.cpp) | http://boj.kr/14718 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 14890 | **경사로** | [/boj/14890.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14890.cpp) | http://boj.kr/14890 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 16562 | **친구비** | [/boj/16562.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/16562.cpp) | http://boj.kr/16562 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 18808 | **스티커 붙이기** | [/boj/18808.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/18808.cpp) | http://boj.kr/18808 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 1202 | **보석 도둑** | [/boj/1202.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1202.cpp) | http://boj.kr/1202 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 1766 | **문제집** | [/boj/1766.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1766.cpp) | http://boj.kr/1766 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2611 | **자동차경주** | [/boj/2611.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2611.cpp) | http://boj.kr/2611 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2623 | **음악프로그램** | [/boj/2623.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2623.cpp) | http://boj.kr/2623 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 4195 | **친구 네트워크** | [/boj/4195.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/4195.cpp) | http://boj.kr/4195 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 10775 | **공항** | [/boj/10775.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/10775.cpp) | http://boj.kr/10775 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 12015 | **가장 긴 증가하는 부분 수열 2** | [/boj/12015.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/12015.cpp) | http://boj.kr/12015 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 12100 | **2048 (Easy)** | [/boj/12100.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/12100.cpp) | http://boj.kr/12100 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 16946 | **벽 부수고 이동하기 4** | [/boj/16946.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/16946.cpp) | http://boj.kr/16946 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | 2042 | **구간 합 구하기** | [/boj/2042.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2042.cpp) | http://boj.kr/2042 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | 2268 | **수들의 합 7** | [/boj/2268.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2268.cpp) | http://boj.kr/2268 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | 2357 | **최솟값과 최댓값** | [/boj/2357.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2357.cpp) | http://boj.kr/2357 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | 14438 | **수열과 쿼리 17** | [/boj/14438.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/14438.cpp) | http://boj.kr/14438 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | 1849 | **순열** | [/boj/1849.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1849.cpp) | http://boj.kr/1849 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | 1948 | **임계경로** | [/boj/1948.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1948.cpp) | http://boj.kr/1948 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | 2243 | **사탕상자** | [/boj/2243.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/2243.cpp) | http://boj.kr/2243 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | 7578 | **공장** | [/boj/7578.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/7578.cpp) | http://boj.kr/7578 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | 11003 | **최솟값 찾기** | [/boj/11003.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/11003.cpp) | http://boj.kr/11003 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | 15311 | **약 팔기** | [/boj/15311.c](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/15311.c) | http://boj.kr/15311 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/17.svg"/> | 1280 | **나무 심기** | [/boj/1280.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1280.cpp) | http://boj.kr/1280 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/17.svg"/> | 3006 | **터보소트** | [/boj/3006.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/3006.cpp) | http://boj.kr/3006 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/17.svg"/> | 3653 | **영화 수집** | [/boj/3653.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/3653.cpp) | http://boj.kr/3653 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/19.svg"/> | 1315 | **RPG** | [/boj/1315.cpp](https://github.com/ParkEunHyeok/Algorithm_PS/blob/master/01_BOJ/1000.cpp/1315.cpp) | http://boj.kr/1315 |
