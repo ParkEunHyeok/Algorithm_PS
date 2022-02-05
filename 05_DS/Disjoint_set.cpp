@@ -43,6 +43,9 @@ int main() {
     cout << "1과 8 연결 여부 : " << findParent(1, 8, parent) << endl;
     cout << "1과 4 연결 여부 : " << findParent(1, 4, parent) << endl;
     cout << endl << "1과 8 UnionParent 실행" << "\n\n";
+    unionParent(1, 8, parent);
+    cout << "1과 8 연결 여부 : " << findParent(1, 8, parent) << endl;
+    cout << "1과 4 연결 여부 : " << findParent(1, 4, parent) << endl;
 
     return 0;
 }
