@@ -26,7 +26,7 @@ bool findParent(int first, int second, int parent[]) {
 }
 
 int n, m;
-class Edge {
+struct Edge {
 public:
     int firstNode;
     int secondNode;
