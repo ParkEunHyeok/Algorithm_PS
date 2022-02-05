@@ -1,3 +1,7 @@
+/*
+
+Prim
+
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -42,6 +46,58 @@ int main() {
             int nw = a[x][i].second;
             pq.push({nw, ny});
         }
+    }
+
+    cout << res - mx;
+    return 0;
+}
+*/
+
+// Kruskal
+
+#include <iostream>
+#include <tuple>
+#include <algorithm>
+#include <vector>
+using namespace std;
+
+int n, m;
+vector<int> parent(100002, -1);
+tuple<int, int, int> edge[1000002];
+
+int find(int x) {
+    if(parent[x]<0) return x;
+    return parent[x] = find(parent[x]);
+}
+
+bool is_diff_group(int x, int y) {
+    x = find(x);
+    y = find(y);
+    if(x==y) return 0;
+    parent[y] = x;
+    return 1;
+}
+
+int main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0); cout.tie(0);
+
+    int a, b, c;
+    cin >> n >> m;
+    for(int i=0; i<m; i++) {
+        cin >> a >> b >> c;
+        if(a > b) swap(a, b);
+        edge[i] = {c, a, b};
+    }
+    sort(edge, edge+m);
+
+    int mx = 0, res = 0;
+    for(int i=0; i<m; i++) {
+        int cost, a, b;
+        tie(cost, a, b) = edge[i];
+        if(!is_diff_group(a, b)) continue;
+        res += cost;
+        mx = max(mx, cost);
     }
 
     cout << res - mx;
