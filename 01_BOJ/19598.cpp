@@ -15,16 +15,15 @@ int main() {
     cin >> n;
     for(int i=0; i<n; i++) {
         cin >> s >> e;
-        v.push_back({e, s});
+        v.push_back({s, e});
     }
     sort(v.begin(), v.end());
 
     int res = 1;
-    pq.push(v[0].first);
+    pq.push(v[0].second);
     for(int i=1; i<n; i++) {
-        while(!pq.empty() && (pq.top()<=v[i].first))
-            pq.pop();
-        pq.push(v[i].first);
+        while(!pq.empty() && (pq.top()<=v[i].first)) pq.pop();
+        pq.push(v[i].second);
         res = max(res, (int)pq.size());
     }
 
