@@ -17,7 +17,7 @@ int main() {
     int res = 1;
     for(int i=1; i<=n; i++) {
         for(int j=1; j<i; j++) {
-            if(arr[i] > arr[j]) {
+            if(arr[j] < arr[i]) {
                 dp[i] = max(dp[i], dp[j]+1);
             }
         }
@@ -26,4 +26,4 @@ int main() {
 
     cout << res;
     return 0;
-}nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+}
