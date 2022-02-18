@@ -3,10 +3,9 @@
 using namespace std;
 
 int n, m;
-bool isFriend[12][12];
 
 // taken[i] : i번째 학생이 이미 짝을 찾았으면 true, 아니면 fasle
-int countParings(bool taken[12]) {
+int countParings(bool taken[12], bool isFriend[12][12]) {
     // 남은 학생들 중 가장 빠른 인덱스
     int firstFree = -1;
     for(int i=0; i<n; i++) {
@@ -19,14 +18,15 @@ int countParings(bool taken[12]) {
     if(firstFree==-1) return 1;
 
     int ret = 0;
-    // 이 학생과 짝지을 핛애을 결정
+    // 이 학생과 짝지을 학생을 결정
     for(int pairWith = firstFree+1; pairWith<n; pairWith++) {
         if(!taken[pairWith] && isFriend[firstFree][pairWith]) {
             taken[pairWith] = taken[firstFree] = true;
-            ret += countParings(taken);
+            ret += countParings(taken, isFriend);
             taken[pairWith] = taken[firstFree] = false;
         }
     }
+
     return ret;
 }
 
@@ -38,7 +38,7 @@ int main() {
     cin >> c;
     while(c--) {
         bool taken[12] = {0,};
-        memset(isFriend, 0, sizeof(isFriend));
+        bool isFriend[12][12] = {0,};
 
         cin >> n >> m;
         for(int i=0; i<m; i++) {
@@ -48,7 +48,7 @@ int main() {
             isFriend[b][a] = 1;
         }
 
-        cout << countParings(taken) << "\n";
+        cout << countParings(taken, isFriend) << "\n";
     }
 
     return 0;
