@@ -47,7 +47,6 @@ int cover() {
     }
     // 모든 칸을 채운 경우
     if(y==-1) return 1;
-
     int ret = 0;
     for(int type=0; type<4; type++) {
         if(set(y, x, type, 1)) ret += cover();
