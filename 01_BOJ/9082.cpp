@@ -20,98 +20,63 @@ int main() {
             mine[i] = str2[i];
         }
 
+        // 확정할 수 있는 것 확정
         for(int i=0; i<n; i++) {
-            if(nearby[i]==0) {
-                if(i==0) {
-                    mine[0] = '.';
-                    mine[1] = '.';
-                }
-                else if(i==n-1) {
-                    mine[n-1] = '.';
-                    mine[n-2] = '.';
-                }
-                else {
-                    mine[i-1] = '.';
-                    mine[i] = '.';
-                    mine[i+1] = '.';
-                }
-            }
             if(nearby[i]==2) {
                 if(i==0) {
+                    nearby[i] = 0;
                     mine[0] = '*';
                     mine[1] = '*';
                 }
                 else if(i==n-1) {
+                    nearby[i] = 0;
                     mine[n-1] = '*';
                     mine[n-2] = '*';
                 }
             }
             if(nearby[i]==3) {
+                nearby[i] = 0;
                 mine[i-1] = '*';
                 mine[i] = '*';
                 mine[i+1] = '*';
             }
         }
 
+        if(nearby[0]==1) {
+            if(mine[0]=='.') mine[1] = '*';
+            if(mine[1]=='.') mine[0] = '*';
+            if(mine[0]=='*') mine[1] = '.';
+            if(mine[1]=='*') mine[0] = '.';
+        }
+
+        if(nearby[n-1]==1) {
+            if(mine[n-1]=='.') mine[n-2] = '*';
+            if(mine[n-2]=='.') mine[n-1] = '*';
+            if(mine[n-1]=='*') mine[n-2] = '.';
+            if(mine[n-2]=='*') mine[n-1] = '.';
+        }
+
         while(1) {
             for(int i=0; i<n; i++) {
-                if(i==0) {
-                    if(nearby[0]!=1) continue;
-                    if(mine[0]=='*') mine[1] = '.';
-                    else if(mine[0]=='.') mine[1] = '*';
-                    else if(mine[1]=='*') mine[0] = '.';
-                    else if(mine[1]=='.') mine[0] = '*';
-                }
-                else if(i==n-1) {
-                    if(nearby[n-1]!=1) continue;
-                    if(mine[n-1]=='*') mine[n-2] = '.';
-                    else if(mine[n-2]=='*') mine[n-1] = '.';
-                }
-                else {
-                    int a = 0, b = 0;
-                    for(int j=i-1; j<=i+1; j++) {
-                        if(mine[j]=='*') a++;
-                        if(mine[j]=='b') b++;
+                if(nearby[i]==0) {
+                    if(i==0) {
+                        if(mine[0]=='#') mine[0] = '.';
+                        if(mine[1]=='#') mine[1] = '.';
                     }
-                    if(nearby[i]==1) {
-                        if(a==1) {
-                            for(int j=i-1; j<=i+1; j++) {
-                                if(mine[j]!='*') mine[j] = '.';
-                            }
-                        }
-                        if(b==2) {
-                            for(int j=i-1; j<=i+1; j++) {
-                                if(mine[j]!='.') mine[j] = '*';
-                            }
-                        }
+                    else if(i==n-1) {
+                        if(mine[n-1]=='#') mine[n-1] = '.';
+                        if(mine[n-2]=='#') mine[n-2] = '.';
                     }
-                    if(nearby[i]==2) {
-                        if(a==2) {
-                            for(int j=i-1; j<=i+1; j++) {
-                                if(mine[j]!='*') mine[j] = '.';
-                            }
-                        }
-                        if(b==1) {
-                            for(int j=i-1; j<=i+1; j++) {
-                                if(mine[j]!='.') mine[j] = '*';
-                            }
-                        }
+                    else {
+                        if(mine[i-1]=='#') mine[i-1] = '.';
+                        if(mine[i]=='#') mine[i] = '.';
+                        if(mine[i+1]=='#') mine[i+1] = '.';
                     }
                 }
             }
 
-            int cnt = 0;
-            bool flag = true;
-            for(int i=0; i<n; i++) {
-                if(mine[i]=='*') cnt++;
-                if(mine[i]=='#') {
-                    flag = false;
-                    break;
-                }
-            }
-            if(flag) {
-                cout << cnt << "\n";
-                break;
+            for(int i=1; i<n-1; i++) {
+                
             }
         }
     }
